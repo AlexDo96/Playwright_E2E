@@ -2,7 +2,7 @@
 
 ![Playwright logo](https://playwright.dev/img/playwright-logo.svg)
 
-**Take-home Task for CoverGo** created with Playwright, a NodeJS library made for browser automation. It's free, open source and backed up by Microsoft.
+**Take-home Task** created with Playwright, a NodeJS library made for browser automation. It's free, open source and backed up by Microsoft.
 
 Playwright supports all modern rendering engines including Chromium, WebKit, and Firefox. Test on Windows, Linux, and macOS, locally or on CI, headless or headed with native mobile emulation of Google Chrome for Android and Mobile Safari.
 
@@ -22,7 +22,7 @@ The website has few pages - Home, Contact, About us, Cart, Login, Sign up.
 
 ## Tests
 
-The tests in the **Take-home Task for CoverGo** cover:
+The tests in the **Take-home Task** cover:
 
 - User login and sign up
 - Working with modals
